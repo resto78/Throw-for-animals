@@ -1,7 +1,4 @@
---[[
-    Dеobfuѕсаtеԁ Ѕuссеѕsfullу Ву LeаκD
-    https://leakd.fr
-]]
+
 
 local players = game:GetService("Players")
 local coreGui = game:GetService("CoreGui")
@@ -4137,4 +4134,4 @@ else
   f2("Throw Food For Animals is ready. Enjoy!", "ready")
 end
 
--- https://leakd.fr
+
